@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{9514D2E2-BBA8-47F4-933F-AB36CE5B2A92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQPlayground", "LINQPlayground\LINQPlayground.csproj", "{70064416-8FD1-4174-BA34-9816E0B1E3FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9514D2E2-BBA8-47F4-933F-AB36CE5B2A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9514D2E2-BBA8-47F4-933F-AB36CE5B2A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9514D2E2-BBA8-47F4-933F-AB36CE5B2A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70064416-8FD1-4174-BA34-9816E0B1E3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70064416-8FD1-4174-BA34-9816E0B1E3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70064416-8FD1-4174-BA34-9816E0B1E3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70064416-8FD1-4174-BA34-9816E0B1E3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
